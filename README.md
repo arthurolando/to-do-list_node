@@ -1,7 +1,7 @@
 # to-do-list_node
 Um projeto CRUD de lista de tarefas para o estudo de node.js
 
-##Requisitos
+## Requisitos
 - Banco de dados MySQL com tabela: task(id, title VARCHAR, status VARCHAR, created_at VARCHAR)
 
 ## Sobre

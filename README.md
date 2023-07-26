@@ -5,7 +5,7 @@ Um projeto CRUD de lista de tarefas para o estudo de node.js
 
 
 ### Requisitos
-- Banco de dados MySQL com tabela: tasks(id, title VARCHAR, status VARCHAR, created_at VARCHAR)
+- NodeJs e MySQL
 
 ### Sobre
 O projeto foi feito seguindo os tutoriais de
